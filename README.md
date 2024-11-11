@@ -2,6 +2,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <br>
+
 - :school: I am a `Junior` at Faculty of Engineering and Architecture at Peruvian Union University
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I'm currently studying a degree in `Software Engineering`.
