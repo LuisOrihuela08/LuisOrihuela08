@@ -11,7 +11,7 @@
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
 - :handshake: Experienced in teamwork within agile frameworks like `SCRUM`, collaborating effectively to deliver high-quality solutions.
-- 📄 You can visit my portfolio : [https://luisorihuela08.github.io/portfolio-orihuela/](https://luisorihuela.me/)
+- 📄 You can visit my portfolio : https://luisorihuela.me/
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
