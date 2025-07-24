@@ -1,4 +1,4 @@
-[![banner.jpg](https://i.postimg.cc/LsnNLdK8/banner.jpg)](https://postimg.cc/8FgRg0z2)
+![Image](https://github.com/user-attachments/assets/30e26277-6e60-4fb1-9c97-3e0d0169ca43)
 
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
